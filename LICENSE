@@ -2,7 +2,8 @@ Sound Minimum License
 
 Copyright (c) 2026
 
-1. **Personal Use**: This software is free for personal, non-commercial use.
-2. **Commercial Use**: Any commercial use requires prior written agreement with the author.
-3. **Distribution**: Redistribution of the original binaries is permitted as long as no fee is charged.
-4. **Modification**: You may modify the source code for personal use only.
+1. **Non-commercial use**: This software is free for personal and non-commercial use.
+2. **Modification and distribution**: You may modify and distribute copies of the software (source or binaries) for non-commercial purposes, provided that:
+   - The original author's copyright is preserved.
+   - A link to the original repository is included: https://github.com/logego-dev/SoundMinimum
+3. **Commercial use**: Any commercial use requires prior written agreement with the author.
