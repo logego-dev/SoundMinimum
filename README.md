@@ -26,12 +26,12 @@
 ## Установка (Installation)
 
 ### Self-contained (рекомендуется / recommended)
-- Скачайте `SoundMinimum-standalone.zip`
-- Распакуйте, запустите `SoundMinimum.exe`
+- Скачайте `SoundMinimum_v.xxx-standalone.zip`
+- Распакуйте, запустите `SoundMinimum_v.xxx.exe`
 - Не требует установки .NET Runtime
 
 ### Framework-dependent
-- Скачайте `SoundMinimum.zip`
+- Скачайте `SoundMinimum_v.xxx.zip`
 - Требуется .NET 8 Runtime (на Windows 11 2024+ может быть предустановлен, иначе скачайте с dotnet.microsoft.com)
 - Распакуйте и запустите `SoundMinimum.exe`
 
