@@ -1,0 +1,70 @@
+{
+  "WindowTitle": "Sound Minimum",
+  "AppTitleDefault": "Sound Minimum",
+
+  "Favorites_Header": "FAVORITES",
+  "Favorites_Empty": "Press ★ to add files",
+
+  "Devices_Header": "DEVICES",
+  "Devices_Default": "Default",
+
+  "Playlist_ColNum": "#",
+  "Playlist_ColTrack": "Track",
+  "Playlist_ColVol": "Vol",
+  "Playlist_ColLoop": "Loop",
+  "Playlist_ColXfd": "Xfd",
+  "Playlist_ColFade": "Fade",
+  "Playlist_ColFav": "★",
+  "Playlist_Empty": "Queue is empty. Press +Add or drag files.",
+
+  "Toolbar_Add": "+Add",
+  "Toolbar_Del": "−Del",
+  "Toolbar_Up": "↑Up",
+  "Toolbar_Dn": "↓Dn",
+  "Toolbar_Clear": "✕ Clear",
+
+  "NowPlaying_Playing": "Playing",
+  "NowPlaying_Paused": "Paused",
+  "NowPlaying_Stopped": "Stopped",
+  "NowPlaying_Ready": "Ready",
+  "NowPlaying_Crossfade": "Crossfade",
+
+  "Transport_Playing": "Playing",
+  "Transport_Paused": "Paused",
+
+  "BgMusic_Header": "Background",
+
+  "BgBehavior_Mix": "Mix",
+  "BgBehavior_MusicPausesSounds": "Music pauses sounds",
+  "BgBehavior_MusicStopsSounds": "Music stops sounds",
+  "BgBehavior_SoundsPauseMusic": "Sounds pause music",
+  "BgBehavior_SoundsStopMusic": "Sounds stop music",
+
+  "BgEditor_Title": "Background music — playlist",
+  "BgEditor_Header": "Background music tracks",
+  "BgEditor_Behavior": "Behavior:",
+  "BgEditor_Add": "+ Add",
+  "BgEditor_Del": "− Del",
+  "BgEditor_Up": "↑ Up",
+  "BgEditor_Dn": "↓ Down",
+  "BgEditor_Close": "Close",
+  "BgEditor_NoBackups": "No backups.",
+
+  "Project_Title": "Project Manager",
+  "Project_List": "Projects",
+  "Project_New": "New Project",
+  "Project_NewDefault": "New Project",
+  "Project_Open": "Open",
+  "Project_NewBtn": "New",
+  "Project_SaveAs": "Save As...",
+  "Project_Delete": "Delete",
+  "Project_Backups": "Backups...",
+  "Project_Close": "Close",
+  "Project_ConfirmDelete": "Delete project \"{0}\"?",
+  "Project_ConfirmTitle": "Confirmation",
+  "Project_NoBackups": "No backups.",
+  "Project_BackupTitle": "Backups",
+  "Project_Restore": "Restore: {0}",
+  "Project_Restored": "Backup restored:\n{0}",
+  "Project_RestoreTitle": "Restore"
+}

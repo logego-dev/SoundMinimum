@@ -1,0 +1,70 @@
+{
+  "WindowTitle": "Sound Minimum",
+  "AppTitleDefault": "Sound Minimum",
+
+  "Favorites_Header": "ИЗБРАННОЕ",
+  "Favorites_Empty": "Нажмите ★ чтобы добавить файлы",
+
+  "Devices_Header": "УСТРОЙСТВА",
+  "Devices_Default": "По умолчанию",
+
+  "Playlist_ColNum": "#",
+  "Playlist_ColTrack": "Трек",
+  "Playlist_ColVol": "Громк.",
+  "Playlist_ColLoop": "Петля",
+  "Playlist_ColXfd": "Кросс",
+  "Playlist_ColFade": "Затух.",
+  "Playlist_ColFav": "★",
+  "Playlist_Empty": "Очередь пуста. Нажмите +Add или перетащите файлы.",
+
+  "Toolbar_Add": "+Add",
+  "Toolbar_Del": "−Del",
+  "Toolbar_Up": "↑Up",
+  "Toolbar_Dn": "↓Dn",
+  "Toolbar_Clear": "✕ Clear",
+
+  "NowPlaying_Playing": "Играет",
+  "NowPlaying_Paused": "Пауза",
+  "NowPlaying_Stopped": "Стоп",
+  "NowPlaying_Ready": "Готов",
+  "NowPlaying_Crossfade": "Кроссфейд",
+
+  "Transport_Playing": "Играет",
+  "Transport_Paused": "Пауза",
+
+  "BgMusic_Header": "Фон",
+
+  "BgBehavior_Mix": "Микс",
+  "BgBehavior_MusicPausesSounds": "Музыка приостанавливает звуки",
+  "BgBehavior_MusicStopsSounds": "Музыка останавливает звуки",
+  "BgBehavior_SoundsPauseMusic": "Звуки приостанавливают музыку",
+  "BgBehavior_SoundsStopMusic": "Звуки останавливают музыку",
+
+  "BgEditor_Title": "Фоновая музыка — список",
+  "BgEditor_Header": "Треки фоновой музыки",
+  "BgEditor_Behavior": "Поведение:",
+  "BgEditor_Add": "+ Добавить",
+  "BgEditor_Del": "− Удалить",
+  "BgEditor_Up": "↑ Вверх",
+  "BgEditor_Dn": "↓ Вниз",
+  "BgEditor_Close": "Закрыть",
+  "BgEditor_NoBackups": "Нет резервных копий.",
+
+  "Project_Title": "Менеджер проектов",
+  "Project_List": "Проекты",
+  "Project_New": "Новый проект",
+  "Project_NewDefault": "Новый проект",
+  "Project_Open": "Открыть",
+  "Project_NewBtn": "Создать",
+  "Project_SaveAs": "Сохранить как...",
+  "Project_Delete": "Удалить",
+  "Project_Backups": "Резервные копии...",
+  "Project_Close": "Закрыть",
+  "Project_ConfirmDelete": "Удалить проект \"{0}\"?",
+  "Project_ConfirmTitle": "Подтверждение",
+  "Project_NoBackups": "Нет резервных копий.",
+  "Project_BackupTitle": "Резервные копии",
+  "Project_Restore": "Восстановить: {0}",
+  "Project_Restored": "Резервная копия восстановлена:\n{0}",
+  "Project_RestoreTitle": "Восстановление"
+}
