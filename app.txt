@@ -1,2 +1,2 @@
-Sound Minimumv 1.0.0 
+Sound Minimum v1.0.0 
 https://github.com/logego-dev/SoundMinimum
